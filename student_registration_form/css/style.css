@@ -1,0 +1,51 @@
+body
+{
+    font-family: Arial, Helvetica, serif;
+    margin: 0px 30px;
+}
+#saylani-logo, #thank-you
+{
+    display: block;
+    margin: auto;
+    padding: auto;
+    width: 60%;
+}
+#saylani-logo
+{
+    width: 40%;
+}
+#title
+{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    color: #6b5acd;
+}
+#form
+{
+    background-color: #6b5acd;
+    padding: 10px;
+    color: white;
+}
+#form-table
+{
+    width: 70%;
+}
+#form-table tr td
+{
+    padding: 12px 0px;
+}
+#qualification-table tr td
+{
+    margin: 0px;
+    padding: 0px;
+}
+input, select
+{
+    padding: 5px;
+}
+#submission-message
+{
+    text-align: center;
+    color: #6b5acd;
+}
